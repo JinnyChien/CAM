@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Jimmy Chen's photo</td>
-    <td>my name is Jimmy Chen</td>
+    <td>my name is Jinny Chien</td>
   </tr>
   <tr>
     <td><img src="ding.jpg" alt="" border=3 height=100 width=100></img></td>
